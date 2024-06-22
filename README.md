@@ -8,4 +8,4 @@ I invite other experienced engineers to offer similar mentorship for worldclass 
 
 ## Project ideas with mentoring offered:
 
-- [ARC-AGI Solver by inducing tactics and curriculum learning as in Peano](https://github.com/nileshtrivedi/awesome-engineering/issues/1) - mentoring by @nileshtrivedi
+- [ARC-AGI Solver by inducing tactics and curriculum learning as in Peano](https://github.com/nileshtrivedi/awesome-engineering/issues/1) - mentoring by [@nileshtrivedi](https://github.com/nileshtrivedi)
